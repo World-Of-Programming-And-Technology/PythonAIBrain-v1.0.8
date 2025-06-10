@@ -79,7 +79,7 @@ print(ppt) # PTT returns the text extract from the given pdf
 
 ### Syntax
 ```python
-ITT(path: str = None)
+PTT(path: str = None)
 ```
 
 Give your own file path.

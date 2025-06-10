@@ -32,7 +32,7 @@ root.mainloop() # Start GUI app
 ```
 Or, 
 ```python
-from pyai.Camera import Start
+from pyai import Start
 Start()
 ```
 
